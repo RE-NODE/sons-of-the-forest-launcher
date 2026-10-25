@@ -1,0 +1,15 @@
+{
+    "launcherVersion":  "0.6.0",
+    "launcherUrl":  "https://github.com/RE-NODE/sons-of-the-forest-launcher/releases/download/v0.6.0/RenodeLauncher.exe",
+    "launcherSha256":  "A944EC6A3828AE92B35016FB8AB726BA9EA94F01C987778DDFEBC506B4157932",
+    "loaderVersion":  "0.8.6",
+    "loaderUrl":  "https://github.com/ToniMacaroni/RedLoader/releases/download/0.8.6/Redloader.zip",
+    "modVersion":  "0.5.1",
+    "modUrl":  "https://github.com/RE-NODE/sons-of-the-forest-launcher/releases/download/v0.6.0/RenodeClient.zip",
+    "modSha256":  "93A64DADEDC8014C0274D5749A41AF9475177A0E79F24BA7E48B5F38B8F34D87",
+    "supportedGameVersions":  [
+                                  "1.0.0"
+                              ],
+    "notice":  "",
+    "discord":  "https://discord.gg/K7sJwZR4F"
+}
